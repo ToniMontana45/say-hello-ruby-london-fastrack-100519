@@ -1,7 +1,10 @@
+def say_hello
+  puts "Hello Ruby Programmer!"
+
 def say_hello(name)
   puts "Hello, #{name}!"
   
-  if name
+
   
   say_hello
 end
